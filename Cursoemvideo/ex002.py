@@ -1,0 +1,7 @@
+print ('teste idade')
+nome = input('Qual o seu nome ?')
+print ('olá',nome,'!','tudo bem ?')
+dia = input ('por favor insira o dia do seu nascimento!')
+mes = input ('agora o Mês de seu aniversario ')
+ano = input ('por ultimo o ano que você nasceu')
+print ('então Senhor(a)',nome, 'nasceu no dia',dia,'de',mes,'do ano',ano,'correto?')
